@@ -1,0 +1,11 @@
+state_building_state_administration_max_level_add = {
+	good = yes
+	percent = no
+	num_decimals = 0
+}
+
+state_decree_cost_mult = {
+	good = no
+	percent = yes
+	num_decimals = 0
+}

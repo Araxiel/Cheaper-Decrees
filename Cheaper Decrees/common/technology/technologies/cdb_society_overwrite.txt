@@ -1,0 +1,21 @@
+central_archives = {
+	# Unlocks Secret Police - Internal Security Law
+	# Unlocks Horizontal Drawer Cabinets PM for Government Administration
+	era = era_2
+	texture = "gfx/interface/icons/invention_icons/central_archives.dds"
+	category = society
+	
+	modifier = {
+		state_tax_capacity_add = 25
+		country_institution_home_affairs_max_investment_add = 1
+		state_building_state_administration_max_level_add = 1
+	}
+	
+	unlocking_technologies = {
+		centralization
+	}
+	
+	ai_weight = {
+		value = 1.5 # Important in general
+	}
+}
