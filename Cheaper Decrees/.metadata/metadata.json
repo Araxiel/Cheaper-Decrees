@@ -1,0 +1,12 @@
+{
+  "name" : "Cheaper Decrees",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.5.*",
+  "short_description" : "Lightweight mod that dynamically lowers decree cost and gives some extra authority based on legitimacy and adds a new building that further helps",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
