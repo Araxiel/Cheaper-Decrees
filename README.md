@@ -14,6 +14,7 @@ TODO
 
 ## Compatibility
 This mod is very lightweight and changes `\legitimacy_levels\00_legitimacy_levels.txt` and overwrites the single `central_archives` technology.
+
 ---
 
 &ensp; | Useful Links
